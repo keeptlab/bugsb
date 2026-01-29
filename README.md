@@ -1,0 +1,2 @@
+# bugsb
+A simple project ;)
